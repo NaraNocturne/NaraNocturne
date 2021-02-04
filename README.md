@@ -1,4 +1,4 @@
-# Front-End Looking For Job 👔|| CS Student of NJFU
+Front-End Looking For Job 👔|| CS Student of NJFU
 ## 你好 我是NaraNocturne 希望能把前端学明白 同时我对Golang服务端开发很感兴趣
 ### 我的技术栈：Nodejs + React + Webpack
 

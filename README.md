@@ -1,4 +1,4 @@
-### Hi there 👋
+### Learing Front-End For Job 👔|| CS Student of NJFU
 
 <!--
 **NaraNocturne/NaraNocturne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

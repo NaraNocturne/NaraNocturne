@@ -1,6 +1,6 @@
 Front-End Looking For Job 👔|| CS Student of NJFU
-## 你好 我是NaraNocturne 希望能把前端学明白 同时我对Golang服务端开发很感兴趣
-### 我的技术栈：Nodejs + React + Webpack
+## 你好 我是MitoRevo 希望今年年内能成功找个厂CRUD 同时我对游戏开发和Golang服务端开发很感兴趣
+### 我的技术栈太杂了 什么都碰什么都学不明白
 
 <!--
 **NaraNocturne/NaraNocturne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
